@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/allihive/typescript-react-tut/static/css/main.10a3366b.css",
+    "main.js": "/allihive/typescript-react-tut/static/js/main.8f2b1ec6.js",
+    "index.html": "/allihive/typescript-react-tut/index.html",
+    "main.10a3366b.css.map": "/allihive/typescript-react-tut/static/css/main.10a3366b.css.map",
+    "main.8f2b1ec6.js.map": "/allihive/typescript-react-tut/static/js/main.8f2b1ec6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10a3366b.css",
+    "static/js/main.8f2b1ec6.js"
+  ]
+}
